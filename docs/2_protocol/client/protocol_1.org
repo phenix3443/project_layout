@@ -1,0 +1,18 @@
+# -*-coding:utf-8-*-
+#+title:【项目名称】协议说明
+#+author:刘尚亮
+#+email:liushangliang@xunlei.com
+
+* 概述
+
+* 请求
+** 参数说明
+
+* 响应
+** 参数说明
+
+* 请求示例
+
+* 响应示例
+
+* 备注

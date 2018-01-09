@@ -1,0 +1,12 @@
+# -*-coding:utf-8-*-
+#+title:数据库设计说明
+#+author:刘尚亮
+#+email:liushangliang@xunlei.com
+
+* 数据库设计
+
+
+* 数据库结构
+  | domain | db | table | note |
+  |--------+----+-------+------|
+  |        |    |       |      |

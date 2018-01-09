@@ -1,0 +1,12 @@
+# -*-coding:utf-8-*-
+#+title:【项目名称】配置说明
+#+author:刘尚亮
+#+email:liushangliang@xunlei.com
+
+
+* 格式
+  说明配置文件的格式（ini，gflag，lua，python 等）
+* 具体配置
+  各配条目的含义（该项在配置文件中应该用注释进行说明）
+* 注意事项
+  比如更新注意事项。。
