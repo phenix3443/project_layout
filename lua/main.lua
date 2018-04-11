@@ -1,3 +1,4 @@
 -- -*- coding:utf-8 -*-
 -- author:liushangliang@xunlei.com
--- file:
+-- desc:代码文件说明
+-- doc:如果代码是接口，这里说明对应的接口文档
