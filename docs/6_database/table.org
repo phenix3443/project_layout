@@ -1,7 +1,9 @@
-# -*-coding:utf-8-*-
-#+title:数据表结构说明
-#+author:刘尚亮
-#+email:liushangliang@xunlei.com
+# -*- coding:utf-8-*-
+#+TITLE:【项目名称】数据表说明
+#+AUTHOR: liushangliang
+#+EMAIL: phenix3443+github@gmail.com
+#+STARTUP: overview
+#+OPTIONS: author:nil date:nil creator:nil timestamp:nil validate:nil num:nil
 
 * 概述
 

@@ -1,8 +1,9 @@
-# -*-coding:utf-8-*-
-#+title:【项目名称】依赖说明
-#+author:刘尚亮
-#+email:liushangliang@xunlei.com
-
+# -*- coding:utf-8-*-
+#+TITLE: 【项目名称】依赖说明
+#+AUTHOR: liushangliang
+#+EMAIL: phenix3443+github@gmail.com
+#+STARTUP: overview
+#+OPTIONS: author:nil date:nil creator:nil timestamp:nil validate:nil num:nil
 
 * 代码依赖
   此处描述程序依赖的第三方程序库，要详细说明第三方程序库的版本，注意做好兼容。
