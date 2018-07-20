@@ -2,19 +2,19 @@
 #+TITLE: 【项目名称】生产环境
 #+AUTHOR: liushangliang
 #+EMAIL: phenix3443+github@gmail.com
+#+OPTIONS: author:nil date:nil creator:nil timestamp:nil validate:nil num:nil
 
 * 当前版本
 
   说明当前生产环境的版本。
 
-* 部署机房
-  |        |   | 备注 |
-  |--------+---+------|
-  | LVS    |   |      |
-  | Host   |   |      |
-  | Port   |   |      |
-  | Dir    |   |      |
-
+* 部署
+  |      | ad_server | ad_material |
+  |------+-----------+-------------|
+  | LVS  |           |             |
+  | Host |           |             |
+  | Port |       443 |         443 |
+  | Dir  |           |             |
 
 * 依赖说明
   此处是程序依赖在生产环境中的第三方服务依赖说明。
