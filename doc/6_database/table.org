@@ -2,7 +2,7 @@
 #+TITLE:【项目名称】数据表说明
 #+AUTHOR: liushangliang
 #+EMAIL: phenix3443+github@gmail.com
-#+OPTIONS: author:nil date:nil creator:nil timestamp:nil validate:nil num:nil
+#+OPTIONS: author:nil date:nil creator:nil timestamp:nil validate:nil
 
 * 概述
 

@@ -3,7 +3,7 @@
 #+AUTHOR: liushangliang
 #+EMAIL: phenix3443+github@gmail.com
 #+STARTUP: overview
-#+OPTIONS: author:nil date:nil creator:nil timestamp:nil validate:nil num:nil
+#+OPTIONS: author:nil date:nil creator:nil timestamp:nil validate:nil
 
 * 格式
   说明配置文件的格式（ini，gflag，lua，python 等）
